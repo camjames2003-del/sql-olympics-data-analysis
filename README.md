@@ -86,7 +86,7 @@ This chart highlights countries with strong modern female participation rates.
 
 This chart shows how medalist physical profiles changed over time in selected sports such as Athletics, Gymnastics, and Swimming.
 
-![Sport-Specific Physical Trends](SpecificPhysicalTrends.png)
+![Sport-Specific Physical Trends](SportSpecificPhysicalTrends.png)
 
 ---
 
