@@ -118,8 +118,8 @@ The project was completed using SQL in a Jupyter Notebook environment. The workf
 
 ### 1. SQL: Data Preparation
 
-**File:** `olympics_sql_analysis.ipynb`  
-**Link:** [Paste notebook link here]()
+**File:** Milestone_1_Project_Proposal_Workbook.ipynb
+**Link:** https://github.com/camjames2003-del/sql-olympics-data-analysis/blob/main/Milestone_1_Project_Proposal_Workbook.ipynb
 
 In this phase, I prepared the Olympic dataset for analysis by loading the two main tables, reviewing the structure of the data, checking table joins, and identifying important limitations.
 
@@ -137,7 +137,7 @@ This stage was important because some fields, especially height and weight, had 
 
 ### 2. SQL: Exploratory Data Analysis (EDA)
 
-**File:** `olympics_sql_analysis.ipynb`  
+**File:** Milestone_2_Descriptive_Statistics.ipynb
 **Link:** [Paste notebook link here]()
 
 In this phase, I explored the dataset to understand participation, country representation, medal records, gender trends, and sport-level patterns.
@@ -158,7 +158,7 @@ This stage helped identify the strongest directions for deeper analysis: medal e
 
 ### 3. SQL: Deeper Analysis
 
-**File:** `olympics_sql_analysis.ipynb`  
+**File:** 
 **Link:** [Paste notebook link here]()
 
 In this phase, I moved beyond descriptive statistics and created more analytical metrics to answer the main project questions.
