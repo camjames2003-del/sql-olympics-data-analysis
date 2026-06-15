@@ -110,7 +110,7 @@ Another limitation is that historical country changes affect interpretation. For
 
 ## 🧩 ERD / Data Model
 
-
+![ERD](ERD.png)
 
 ## 💻 SQL Workflow
 
