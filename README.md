@@ -138,7 +138,7 @@ This stage was important because some fields, especially height and weight, had 
 ### 2. SQL: Exploratory Data Analysis (EDA)
 
 **File:** Milestone_2_Descriptive_Statistics.ipynb
-**Link:** [Paste notebook link here]()
+**Link:** https://github.com/camjames2003-del/sql-olympics-data-analysis/blob/main/Milestone_2_Descriptive_Statistics.ipynb
 
 In this phase, I explored the dataset to understand participation, country representation, medal records, gender trends, and sport-level patterns.
 
@@ -158,8 +158,8 @@ This stage helped identify the strongest directions for deeper analysis: medal e
 
 ### 3. SQL: Deeper Analysis
 
-**File:** 
-**Link:** [Paste notebook link here]()
+**File:** Milestone 3 Beyond Descriptive Stats Dive Deeper  Go Broader.ipynb
+**Link:** https://github.com/camjames2003-del/sql-olympics-data-analysis/blob/main/Milestone%203%20Beyond%20Descriptive%20Stats%20Dive%20Deeper%20%20Go%20Broader.ipynb
 
 In this phase, I moved beyond descriptive statistics and created more analytical metrics to answer the main project questions.
 
