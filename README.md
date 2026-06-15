@@ -84,7 +84,7 @@ This chart highlights countries with strong modern female participation rates.
 
 ### 5. Sport-Specific Physical Trends
 
-This chart shows how medalist physical profiles changed over time in selected sports such as Athletics, Gymnastics, and Swimming.
+This chart shows how medalist physical profiles changed over time in a selected sport: Athletics.
 
 ![Sport-Specific Physical Trends](SportSpecificPhysicalTrends.png)
 
@@ -109,6 +109,8 @@ Another limitation is that historical country changes affect interpretation. For
 ---
 
 ## 🧩 ERD / Data Model
+
+
 
 ## 💻 SQL Workflow
 
