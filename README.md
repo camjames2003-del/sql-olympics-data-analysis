@@ -261,8 +261,8 @@ This would help explain national Olympic success more deeply and move the projec
 
 ## ✅ Presentation of Findings
 
-**File:** `olympics_capstone_presentation.pptx`  
-**Link:** [Paste PowerPoint or Google Slides link here]()
+**File:** CapstoneProject.pptx
+**Link:** https://github.com/camjames2003-del/sql-olympics-data-analysis/blob/main/CapstoneProject.pptx
 
 This presentation summarizes the full analysis in a stakeholder-friendly format. It focuses on the main story that Olympic success goes beyond the traditional medal table.
 
