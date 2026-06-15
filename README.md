@@ -62,31 +62,31 @@ The visuals below summarize the main insights from the analysis.
 
 This chart shows the long-term growth in female Olympic participation across Summer and Winter Olympics.
 
-![Female Participation Over Time](Female_Participation_Over_Time.png)
+![Female Participation Over Time](FemaleParticipationOverTime.png)
 
 ### 2. Medal Count vs Medal Rate
 
 This visual compares countries by total medal records and medal rate, showing that Olympic success changes depending on the metric used.
 
-![Medal Count vs Medal Rate](images/medal_count_vs_medal_rate.png)
+![Medal Count vs Medal Rate](MedalCountvsMedalRate.png)
 
 ### 3. Participation vs Medal Records
 
 This scatter plot shows the relationship between total participation records and total medal records. Countries with more participation generally have more medal opportunities.
 
-![Participation vs Medal Records](images/participation_vs_medal_records.png)
+![Participation vs Medal Records](ParticipationvsMedalRecords.png)
 
 ### 4. Female Participation by Country
 
 This chart highlights countries with strong modern female participation rates.
 
-![Female Participation by Country](images/female_participation_by_country.png)
+![Female Participation by Country](FemaleParticipationbyCountry.png)
 
 ### 5. Sport-Specific Physical Trends
 
 This chart shows how medalist physical profiles changed over time in selected sports such as Athletics, Gymnastics, and Swimming.
 
-![Sport-Specific Physical Trends](images/sport_specific_physical_trends.png)
+![Sport-Specific Physical Trends](SpecificPhysicalTrends.png)
 
 ---
 
