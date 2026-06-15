@@ -62,7 +62,7 @@ The visuals below summarize the main insights from the analysis.
 
 This chart shows the long-term growth in female Olympic participation across Summer and Winter Olympics.
 
-![Female Participation Over Time](images/female_participation_over_time.png)
+![Female Participation Over Time](Female_Participation_Over_Time.png)
 
 ### 2. Medal Count vs Medal Rate
 
